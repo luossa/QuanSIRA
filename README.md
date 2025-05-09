@@ -10,9 +10,13 @@ The framework of quanifying the stock risk consisting of two components: Numeric
 <img src=".\MODEL.png" height = "500" alt="" align=center />
 </p>
 
-[train code]: (./2-day_Crossdomain.py)
-**indomain and crossdomain is QuanSIRA datasets**
+The result of quantifying the  stock risk based on pre-trianed model:
+<p align="center">
+<img src=".\RESULT.png" height = "500" alt="" align=center />
+</p>
 
-**2 day and 5 day is different experiments settings**
-
-**The py file is about papaer code**
+### train and test
+```
+python ~.py
+```
+### indomain and crossdomain is datasets
