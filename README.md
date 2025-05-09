@@ -14,7 +14,7 @@ The framework of quanifying the stock risk consisting of two components: Numeric
 
 The result of quantifying the  stock risk based on pre-trianed model:
 <p align="center">
-<img src=".\RESULT.png" height = "500" alt="" align=center />
+<img src=".\RESULT.png" height = "300" alt="" align=center />
 </p>
 
 ### train and test
