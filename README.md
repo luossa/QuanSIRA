@@ -3,7 +3,7 @@ QuanSIRA: The Quantitative Investment Risk Modeling in Stock Markets with Pre-tr
 In this paper, we build QuanSIRA datasets as a new datasets about stock investment risk, which include:
 - stock fundamental price information and textual information from Twitter.
 - stock risk levels
-- 
+
 QuanSIRA datasets include two benchmark: indomain and crossdomain.
 
 The framework of quanifying the stock risk consisting of two components: Numerical Module and Textual Module.
